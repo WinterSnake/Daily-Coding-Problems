@@ -32,6 +32,8 @@ class Sum_of_Numbers(unittest.TestCase):
     def test_solution(self) -> None:
         self.assertTrue(solution(17, [10, 15, 3, 7]))
         self.assertTrue(solution(5, [1, 2, 4, 8]))
+        self.assertTrue(solution(2, [1, 1, 2, 3]))
+        self.assertFalse(solution(10, [5, 6, 8, 9]))
         self.assertFalse(solution(9, [1, 5, 6]))
         self.assertFalse(solution(5, [10, 15, 3, 7]))
 
