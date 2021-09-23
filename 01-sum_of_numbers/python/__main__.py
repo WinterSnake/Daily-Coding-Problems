@@ -3,7 +3,7 @@
 ## Daily Coding Problem          ##
 ## Written By: Ryan Smith        ##
 ##-------------------------------##
-## Day 01                        ##
+## Day 01: Sum of Numbers        ##
 ##-------------------------------##
 
 ## Imports
